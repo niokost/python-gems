@@ -1,7 +1,7 @@
 # ignore all . files and . folders
 .*
-MERGED2013_14_PP.csv
-MERGED2012_13_PP.csv
+resources/week-3/datasets/college_scorecard/MERGED2013_14_PP.csv
+resources/week-3/datasets/college_scorecard/MERGED2012_13_PP.csv
 
 # Dont ignore .gitignore (this file)
 # This is just for verbosity, you can leave it out if
